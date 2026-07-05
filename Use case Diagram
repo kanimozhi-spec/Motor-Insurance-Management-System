@@ -1,0 +1,44 @@
+                           +------------------+
+                           |      Admin       |
+                           +------------------+
+                                    |
+        ---------------------------------------------------------
+        |            |            |            |                |
+        |            |            |            |                |
+ Manage Users   Manage Broker  Manage Vehicle  View Reports  Manage Premium Rate
+        |            |            |            |                |
+        ---------------------------------------------------------
+                              |
+                              |
+                   +----------------------+
+                   | Motor Insurance      |
+                   | Management System    |
+                   +----------------------+
+                     /      |        \
+                    /       |         \
+                   /        |          \
+                  /         |           \
+        +-----------+   +-----------+   +------------+
+        | Customer  |   |  Broker   |   | Sales Agent|
+        +-----------+   +-----------+   +------------+
+              |               |               |
+              |               |               |
+      ----------------   ----------------   ----------------
+      |      |      |   |      |      |   |      |      |
+      |      |      |   |      |      |   |      |      |
+ Register  Login  Add Vehicle Login  Generate Quote Login Generate Quote
+      |              |                 |
+      |              |                 |
+ Generate Quote   Calculate Premium    |
+      |              |                 |
+      -------------------------------
+                   |
+              Make Payment
+                   |
+             Generate Policy
+                   |
+             Download Policy
+                   |
+              Raise Claim
+                   |
+             Track Claim Status
